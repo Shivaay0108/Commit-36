@@ -1,4 +1,5 @@
 # Commit-36
-36
-36
-36
+base Guild Role
+...
+base Guild gold
+...
